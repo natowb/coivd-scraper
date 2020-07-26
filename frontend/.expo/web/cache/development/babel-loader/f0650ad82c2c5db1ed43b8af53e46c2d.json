@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { ScrapeProvider } from \"./ScrapeContext\";","map":{"version":3,"sources":["/home/natewb/Desktop/dev/node-js/covid-server/frontend/components/Page.jsx"],"names":["ScrapeProvider"],"mappings":"AAAA,SAASA,cAAT","sourcesContent":["import { ScrapeProvider } from \"./ScrapeContext\";\n"]},"metadata":{},"sourceType":"module"}
